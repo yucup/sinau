@@ -1,0 +1,74 @@
+/* header agar nempel*/
+
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+header {
+  height: 100px;
+  width: 100%;
+  background-color: yellow;
+
+}
+/* selesai*/
+
+/* memperbesar tulisan judul*/
+
+.header-logo{
+	text-align: center;
+	font-size: 50px;
+}
+
+
+.menu li{
+	float: left;
+	display: inline-block;
+	margin-left: 270px; 
+	
+}
+
+/* ini isi*/
+.main{
+	padding: 100px 400px;
+
+}
+
+.box{
+	background-color: blue;
+	height: 100px;
+	width: 100px;
+	float: left;
+	margin-right: 40px;
+	margin-top: 50px;
+	}
+
+.box button{
+
+	font-size: 20px;
+	margin: 30px;	
+}
+
+/* ini footer */
+
+.footer {
+  margin-top: 163px;
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
